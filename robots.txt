@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iticusce.github.io/sitemap
+Sitemap: https://iticusce.github.io/app/sitemap
+Sitemap: https://iticusce.github.io/assets/sitemap
+Sitemap: https://iticusce.github.io/css/sitemap
+Sitemap: https://iticusce.github.io/includes/sitemap
+Sitemap: https://iticusce.github.io/item/sitemap
+Sitemap: https://iticusce.github.io/src/sitemap
